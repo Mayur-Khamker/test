@@ -8,3 +8,6 @@ function add() {
 const app = (a, b) => {
    return a + b;
 }
+const app2 = () => {
+    console.log("today i test real workflow");
+}
