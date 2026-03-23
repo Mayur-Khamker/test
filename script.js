@@ -5,3 +5,6 @@ function add() {
 
     console.log(c);
 }
+const app = (a, b) => {
+   return a + b;
+}
