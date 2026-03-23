@@ -10,4 +10,7 @@ const app = (a, b) => {
 }
 const app2 = () => {
     console.log("today i test real workflow");
+} 
+const app12 = () => {
+    console.log("pr test")
 }
