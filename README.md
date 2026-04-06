@@ -2,7 +2,7 @@
 
 This repository is used for testing and experimenting with development workflows.
 
-## 🔧 Purpose.....
+## 🔧 Purpose.....     
 
 * Testing Git commands (add, commit, push)
 * Practicing GitHub Actions (CI/CD workflows)
